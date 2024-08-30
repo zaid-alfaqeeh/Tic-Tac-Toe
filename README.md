@@ -1,4 +1,4 @@
-Tic-Tac-Toe Game with AI
+#Tic-Tac-Toe Game with AI
 This is a web-based Tic-Tac-Toe game that allows you to play against a smart AI opponent. The game is designed using HTML, CSS, and JavaScript, providing a smooth and interactive user experience.
 
 Features:
